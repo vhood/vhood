@@ -1,0 +1,33 @@
+*                 text=auto
+
+# Documentation
+*.ipynb           text
+*.markdown        text
+*.md              text
+*.mdwn            text
+*.mdown           text
+*.mkd             text
+*.mkdn            text
+*.mdtxt           text
+*.mdtext          text
+*.txt             text
+AUTHORS           text
+CHANGELOG         text
+CHANGES           text
+CONTRIBUTING      text
+COPYING           text
+copyright         text
+*COPYRIGHT*       text
+INSTALL           text
+license           text
+LICENSE           text
+NEWS              text
+readme            text
+*README*          text
+TODO              text
+
+# Configs
+.editorconfig     text
+.gitattributes    text
+.gitconfig        text
+*.*ignore         text
