@@ -1,4 +1,4 @@
-# Hey
+# Welcome
 
 ## My name is Viktor and I'm a web developer
 
