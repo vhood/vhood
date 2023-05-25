@@ -31,7 +31,7 @@ Some facts:
     </td>
     <td>
       <a href="https://leetcode.com/vhood" target="_blank" rel="noopener noreferrer">
-        <img src="https://leetcode-badge-showcase.vercel.app/api?username=vhood&theme=dark" alt="LeetCode stats">
+        <img width="400px" src="https://leetcode-badge-showcase.vercel.app/api?username=vhood&theme=dark" alt="LeetCode stats">
       </a>
     </td>
   </tr>
