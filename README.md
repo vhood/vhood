@@ -1,10 +1,10 @@
 # Welcome
 
-## My name is Viktor and I'm a web developer
-
 <a href="https://leetcode.com/vhood" target="_blank" rel="noopener noreferrer">
   <img align="right" src="https://leetcode-badge-showcase.vercel.app/api?username=vhood&theme=dark" alt="LeetCode badges">
 </a>
+
+## My name is Viktor and I'm a web developer
 
 Some facts:
 
