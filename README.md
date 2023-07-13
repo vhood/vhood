@@ -9,7 +9,5 @@
 Some facts:
 
 - :art: I created the [Dark Turquoise](https://github.com/vhood/vscode-dark-turquoise) theme pack and use it personally
-- :money_with_wings: I developing an opensource [financial accounting](https://github.com/family-finances/design) application
-- I like Domain Driven Design and have experience creating DDD architecture
-- I have experience with frameworks, databases, SEO, styling, testing, legacy code refactoring, etc.
+- I object-oriented elegant code and domian driven design
 - I have [github gists](https://gist.github.com/vhood)
