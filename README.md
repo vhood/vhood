@@ -9,5 +9,5 @@
 Some facts:
 
 - :art: I created the [Dark Turquoise](https://github.com/vhood/vscode-dark-turquoise) theme pack and use it personally
-- I object-oriented elegant code and domian driven design
+- I like object-oriented elegant code and domian driven design
 - I have [github gists](https://gist.github.com/vhood)
